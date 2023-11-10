@@ -1,11 +1,6 @@
 {
-      "chainId": 101,
-      "address": "2M4paZNYKAUtUBrF1txWLTZjoCzJPb8k6kJbHwGtSKSa",
-      "symbol": "BLIZ",
       "name": "BlizzardBits",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/thatpolarpenguin/blizzardbits/main/logo.png",
-      "tags": [
-        "social-token"
-      ]
+      "symbol": "BLIZ",
+      "description": "Your digital iceberg of security for navigating the frozen currents of the crypto sea"
+      "image:": "https://raw.githubusercontent.com/thatpolarpenguin/blizzardbits/main/logo.png"
     }
